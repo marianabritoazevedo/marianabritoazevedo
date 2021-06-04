@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Mariana Brito Azevedo and I'm a Computer Engineering student and I love to programming 👩‍💻
 
 <!--
 **marianabritoazevedo/marianabritoazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
