@@ -16,7 +16,7 @@
 
 ## ℹ️ About Me 
 
-Hello! My name is Mariana Brito Azevedo, and I'm a Computer Engineer passionate about solving problems and creating new things. Currently, I'm participating in the research group Conect2AI and enrolled in a master's degree in Electrical and Computer Engineering. 
+Hello! My name is Mariana Brito Azevedo, and I'm a Computer Engineer passionate about solving problems and creating new things. 
 
 ### 🌟 I love programming and applying my knowledge in areas such as Data Science, Artificial Intelligence, and Connected Vehicles.
 ### 📚 Nowadays, I'm diving deep into Blockchain.
